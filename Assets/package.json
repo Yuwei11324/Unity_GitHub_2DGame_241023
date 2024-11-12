@@ -1,0 +1,13 @@
+{
+  "name": "com.kid.toos",
+  "verson": "1.0.0",
+  "displayName": "KID 工具包",
+  "description": "工具包:場景控制器",
+  "unity": "6000.0",
+
+  "author": {
+    "name": "KID",
+    "email": "stu.chiu113@gmail.com",
+    "url": ""
+  }
+}
